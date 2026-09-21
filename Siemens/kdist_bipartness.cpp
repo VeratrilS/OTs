@@ -1,0 +1,1 @@
+// k points partion in 2 groups such that each group min dist is maximized!

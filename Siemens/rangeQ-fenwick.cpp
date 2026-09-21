@@ -1,0 +1,1 @@
+// l ,r find no of >= x 

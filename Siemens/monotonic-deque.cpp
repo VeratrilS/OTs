@@ -1,0 +1,1 @@
+// Count the number of subarrays where maxPrime - minPrime <= k, considering the prime elements.
